@@ -51,7 +51,7 @@ Telco customer dataset (~7K customers)
 
 ![ARPU](images/arpu_trend.png)
 
-### ARPU Trend
+### ARPU Vs MRR Trend
 
 ![ARPU Vs MRR](images/arpu_vs_mrr.png)
 
